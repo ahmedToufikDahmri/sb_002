@@ -41,7 +41,7 @@ public class Sb002Application implements CommandLineRunner {
 	}
 
 	@Override
-	public void run(String... args) throws Exception {
+	//public void run(String... args) throws Exception {
 		
 		// TODO : récupérer la liste de tous les patients puis afficher leurs noms
 
